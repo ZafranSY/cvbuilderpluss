@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "ResumePro.my - Template Resume Mesra ATS untuk Pelajar & Fresh Grad",
+  title: "CVBuilderPlus- Template Resume Mesra ATS untuk Pelajar & Fresh Grad",
   description:
     "Dapatkan template resume yang mesra ATS dan custom resume service. Sesuai untuk pelajar, fresh grad, dan profesional muda di Malaysia.",
   generator: "v0.app",
