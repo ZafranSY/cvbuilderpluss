@@ -14,7 +14,7 @@ export default function HomePage() {
               <FileText className="h-6 w-6 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">
-              ResumePro.my
+              CV Builder Plus.my
             </span>
           </div>
           <nav className="hidden md:flex items-center gap-8">
@@ -340,7 +340,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-purple-800 pt-8">
-            <p className="text-purple-300 font-medium">© 2025 ResumePro.my - Buat Resume Power! 🚀</p>
+            <p className="text-purple-300 font-medium">© 2025 CiptaCraftDigital - Buat Resume Power! 🚀</p>
           </div>
         </div>
       </footer>
