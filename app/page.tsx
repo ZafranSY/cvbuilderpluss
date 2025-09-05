@@ -319,7 +319,7 @@ export default function HomePage() {
             size="lg"
             className="bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-white px-10 py-4 text-lg font-bold rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
           >
-            <Link href="https://wa.me/60123456789">💬 WhatsApp Sekarang</Link>
+            <Link href="https://wa.me/60123456789"> 💬 WhatsApp Sekarang</Link>
           </Button>
 
           <div className="flex justify-center gap-8 pt-6">
