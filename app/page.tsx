@@ -60,7 +60,7 @@ export default function HomePage() {
                 size="lg"
                 className="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white px-8 py-4 text-lg font-bold rounded-2xl shadow-lg hover:shadow-xl transform hover:scale-105 hover:animate-bounce transition-all duration-300"
               >
-                <Link href="https://toyyibpay.com/your-link-here">🔥 Tempah Sekarang</Link>
+                <Link href="#harga">🔥 Tempah Sekarang</Link>
               </Button>
             </div>
             <div className="flex justify-center">
@@ -142,7 +142,7 @@ export default function HomePage() {
                   asChild
                   className="w-full bg-gradient-to-r from-blue-400 to-teal-500 hover:from-blue-500 hover:to-teal-600 text-white font-bold py-3 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300"
                 >
-                  <Link href="https://toyyibpay.com/basic-link">👉 Beli Sekarang</Link>
+                  <Link href="https://toyyibpay.com/BasicResume">👉 Beli Sekarang</Link>
                 </Button>
               </CardContent>
             </Card>
@@ -178,7 +178,7 @@ export default function HomePage() {
                   asChild
                   className="w-full bg-gradient-to-r from-yellow-400 to-orange-500 hover:from-yellow-500 hover:to-orange-600 text-white font-bold py-3 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300"
                 >
-                  <Link href="https://toyyibpay.com/standard-link">👉 Beli Sekarang</Link>
+                  <Link href="https://toyyibpay.com/StandardResume">👉 Beli Sekarang</Link>
                 </Button>
               </CardContent>
             </Card>
@@ -224,7 +224,7 @@ export default function HomePage() {
                   asChild
                   className="w-full bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-white font-bold py-3 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300"
                 >
-                  <Link href="https://toyyibpay.com/premium-link">👉 Beli Sekarang</Link>
+                  <Link href="https://toyyibpay.com/PremiumResume">👉 Beli Sekarang</Link>
                 </Button>
               </CardContent>
             </Card>
@@ -319,19 +319,19 @@ export default function HomePage() {
             size="lg"
             className="bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-white px-10 py-4 text-lg font-bold rounded-2xl shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
           >
-            <Link href="https://wa.me/60123456789">💬 WhatsApp Sekarang</Link>
+            <Link href="https://wa.me/60168719862">💬 WhatsApp Sekarang</Link>
           </Button>
 
           <div className="flex justify-center gap-8 pt-6">
             <Link
-              href="https://tiktok.com/@yourusername"
+              href="https://tiktok.com/@cvbuilderplus"
               className="flex items-center gap-2 text-pink-400 hover:text-pink-300 hover:scale-110 transition-all duration-300 font-medium text-lg"
             >
               <Heart className="w-6 h-6" />
               TikTok
             </Link>
             <Link
-              href="https://wa.me/60123456789"
+              href="https://wa.me/60168719862"
               className="flex items-center gap-2 text-green-400 hover:text-green-300 hover:scale-110 transition-all duration-300 font-medium text-lg"
             >
               <span className="w-6 h-6 text-2xl">💬</span>
